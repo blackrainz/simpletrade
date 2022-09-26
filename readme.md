@@ -30,7 +30,7 @@ Adjusting the timeframe to a window of 5 short and 137 long, the results were si
 
 ### Adjusted timeframe and SMA returns
 
-![Adjusted SMA and timeframe returns](https://github.com/blackrainz/simpletrade/blob/main/Resources/returns7mons5l137.png "Adjusted SMA and timeframe returns")
+![Adjusted SMA and timeframe returns](https://github.com/blackrainz/simpletrade/blob/main/Resources/returns7mos5l137.png "Adjusted SMA and timeframe returns")
 
 ## Logistics regression performance
 
